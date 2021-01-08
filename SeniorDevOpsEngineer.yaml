@@ -5,47 +5,47 @@ metadata:
   namespace: devops-and-networking-team
 data:
   company-description: |+
-    Ranked on Deloittes Fast 50 and Fast 500 lists 4 years in a row,\n 
-    AcuityAds is one of the fastest-growing technology companies in North America as well\n
-    as Europe in the programmatic marketing space which is the fastest-growing segment of\n
-    digital advertising in the world today. Acuity empowers marketers by offering transparency\n 
-    on costs and brand safety, and real-time reporting and analytics, bringing accountability\n
-    to programmatic advertising to deliver business results. AcuityAds is headquartered in\n
-    Toronto, Canada with sales offices in New York City, Boston, Chicago, Los Angeles,\n
+    Ranked on Deloittes Fast 50 and Fast 500 lists 4 years in a row, 
+    AcuityAds is one of the fastest-growing technology companies in North America as well
+    as Europe in the programmatic marketing space which is the fastest-growing segment of
+    digital advertising in the world today. Acuity empowers marketers by offering transparency 
+    on costs and brand safety, and real-time reporting and analytics, bringing accountability
+    to programmatic advertising to deliver business results. AcuityAds is headquartered in
+    Toronto, Canada with sales offices in New York City, Boston, Chicago, Los Angeles,
     San Francisco, San Diego, Vancouver, Calgary, Montreal, and Europe.
 
-    AcuityAds recently launched a revolutionary new advertising platform, meet illumin - for more\n 
+    AcuityAds recently launched a revolutionary new advertising platform, meet illumin - for more 
     info go to www.illumin.com.
   job-overview: |+
-    We are looking for someone who loves technology, really gets and understands DevOps and\n
-    how to define, manage and deliver projects that will increase the DevOps maturity accountability\n
-    AcuityAds. The team is currently made up 3 very talented engineers, who are currently preparing\n
-    to embark on a year long mission to change the way we deliver value to our customers.\n
-    Creating a clear line of sight to our customers for Acuity's development, big data and data science\n
-    teams and creating innovative tools to allow any Acuitian to consume resources in our private cloud,\n
-    offering the same experience provided to users by any public cloud provider.\n\n
+    We are looking for someone who loves technology, really gets and understands DevOps and
+    how to define, manage and deliver projects that will increase the DevOps maturity accountability
+    AcuityAds. The team is currently made up 3 very talented engineers, who are currently preparing
+    to embark on a year long mission to change the way we deliver value to our customers.
+    Creating a clear line of sight to our customers for Acuity's development, big data and data science
+    teams and creating innovative tools to allow any Acuitian to consume resources in our private cloud,
+    offering the same experience provided to users by any public cloud provider.
 
-    Some projects from the road map this year:\n
-      - Revamp of the build and deployment pipelines\n
-      - Introduction of new tooling to refine development and ITSM practices\n
-      - Revamp of monitoring and observability practices and tooling\n
-        including more advanced monitoring for our new data center facilities\n
-      - Introduction to a custom k8s operator for handling state changes in our private cloud.\n
-      - Re-design of our large production kubernetes cluster\n
-      - Introduction of network automation and pipelines to deploy changes\n
+    Some projects from the road map this year:
+      - Revamp of the build and deployment pipelines
+      - Introduction of new tooling to refine development and ITSM practices
+      - Revamp of monitoring and observability practices and tooling
+        including more advanced monitoring for our new data center facilities
+      - Introduction to a custom k8s operator for handling state changes in our private cloud.
+      - Re-design of our large production kubernetes cluster
+      - Introduction of network automation and pipelines to deploy changes
       - Implementation of a new fully automated central auth system for our data centers.
 
-    The team does work on a weekly on-call rotation schedule for any major incidents that\n
+    The team does work on a weekly on-call rotation schedule for any major incidents that
     occur with critical system.
 
-    Please be prepared to talk in-depth during the interview process about new technologies that\n
+    Please be prepared to talk in-depth during the interview process about new technologies that
     has excited you recently.
 
-    Our goal is to be able to make our developers and engineers feel like they can\n
-    have and idea, no matter how big and make it happen. We also want to help set a\n
+    Our goal is to be able to make our developers and engineers feel like they can
+    have and idea, no matter how big and make it happen. We also want to help set a
     standard for DevOps teams and tech companies across Toronto to aspire.
 
-    So, do you want to be apart of what is going to be an amazing year not just for the DevOps\n
+    So, do you want to be apart of what is going to be an amazing year not just for the DevOps
     team, but for the revolutionary technology company that is AcuityAds.
 immutable: true
 ---
