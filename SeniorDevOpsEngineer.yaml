@@ -83,7 +83,7 @@ spec:
       - A fully stocked and functioning kitchen
       - Structured employee recognition awards and financial wellness programs.
       - In-house registered massage therapy service
-      - Great Health Benefits with enhanced vision and dental2
+      - Great Health Benefits with enhanced vision and dental
   nodeSelector:
     work-mentality: TeamPlayer
     motivated: true
