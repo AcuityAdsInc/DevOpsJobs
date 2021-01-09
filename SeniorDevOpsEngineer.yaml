@@ -42,8 +42,8 @@ data:
     has excited you recently.
 
     Our goal is to be able to make our developers and engineers feel like they can
-    have and idea, no matter how big and make it happen. We also want to help set a
-    standard for DevOps teams and tech companies across Toronto to aspire.
+    have an idea, no matter how big and make it happen. We also want to help set a
+    standard for DevOps teams and tech companies across Toronto to aspire to.
 
     So, do you want to be apart of what is going to be an amazing year not just for the DevOps
     team, but for the revolutionary technology company that is AcuityAds.
@@ -84,10 +84,6 @@ spec:
       - Structured employee recognition awards and financial wellness programs.
       - In-house registered massage therapy service
       - Great Health Benefits with enhanced vision and dental
-  nodeSelector:
-    work-mentality: TeamPlayer
-    motivated: true
-    problemSolvingMode: innovative
   jobSpec:
     title: Senior DevOps Engineer
     location: ["Toronto, ON"]
@@ -138,3 +134,7 @@ spec:
           secretKeyRef:
             name: snr-dvops-job-comp-secret
             key: comp
+   nodeSelector:
+    work-mentality: TeamPlayer
+    motivated: true
+    problemSolvingMode: innovative
